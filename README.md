@@ -1,2 +1,2 @@
 # skipListForFun
-Generic skip list made "For fun" after a Data Structures lecture on the topic.
+Generic skip list made "for fun" after a lecture on the topic in a Data Structures course.
